@@ -48,7 +48,7 @@ class RomanRange {
 }
 
 // An instance of RomanRange can now be used as an iterator
-for (numeral of new RomanRange(1)) {
+for (numeral of new RomanRange(10)) {
   console.log(numeral)
 }
 
@@ -57,4 +57,11 @@ Prints:
 I
 II
 III
+IV
+V
+VI
+VII
+VIII
+IX
+X
 */
